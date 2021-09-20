@@ -1,7 +1,6 @@
 ### Meus desafios lógicos
 
-Pego esses desafios principalmente do site [CodeSignal](https://codesignal.com/)
-
+Pego esses desafios principalmente do site [CodeSignal](https://codesignal.com/). Aceito sugestão e colaborações na lógica dos desafios.
 ### Desafios no momento
 
 #### Números Adjacentes
